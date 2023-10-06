@@ -10,7 +10,6 @@ HTTP 5112 is the course code for Web Development Lab 1. The course is subdivided
 - <https:webdevelopmentlab.humber>
 - You can find all the necessary details in [Web development Lab 1](https:webdevelopmentlab.humber)
 
-![This is a fun place to code](java-script-logo.gif)
 
 ### Note:
 Every student must understand and follow **"Academic Integrity"**
